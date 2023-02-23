@@ -1,0 +1,66 @@
+body{
+    background-color:rgb(39, 40, 34);
+    color: rgb(127, 226, 47);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    text-align: center;
+    width: 50%;
+    
+    margin-top: 0%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 0%;
+}
+
+p,h3,ol,ul,a,h1,a,img{
+    padding: 0;
+    margin: 0;
+}
+
+p,li,img, h1{
+    padding-bottom: 10px;
+}
+
+a{
+    color: rgb(82, 217, 239);
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+   text-align: center;
+}
+
+ol{
+    list-style-position: inside; 
+}
+
+h3{
+    font-size: 25px;
+}
+
+h1{
+    font-size: 35px;
+}
+
+h3,h1{
+    color: plum;
+}
+
+.home{
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+
+.imageSize{
+    height: 250px;
+    width: 250px;
+}
+
+.recipeItems{
+    font-size: 20px;
+}
